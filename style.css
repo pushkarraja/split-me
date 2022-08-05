@@ -9,10 +9,11 @@ body {
 
 h1 {
   color: #fbab7e;
+  margin-bottom: 0;
 }
 
 .wrapper {
-  height: 525px;
+  height: auto;
   width: 360px;
   color: white;
   background: #272639;
@@ -23,6 +24,7 @@ h1 {
 
 .heading {
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .container {
